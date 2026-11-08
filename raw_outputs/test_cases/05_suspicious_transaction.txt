@@ -1,0 +1,10 @@
+TEST 05 — SUSPICIOUS BANK TRANSACTION
+
+User turn 1:
+My bank statement shows a debit of ₹3,200 with a merchant name I do not recognize. I am not sure whether it is fraud or an old subscription. How should I verify it safely?
+
+User turn 2:
+The transaction happened three days ago. I have not contacted the bank yet. What information should I keep ready before calling?
+
+User turn 3:
+Please explain the difference between a disputed transaction and confirmed fraud in simple language. Also tell me what you still need to know.
