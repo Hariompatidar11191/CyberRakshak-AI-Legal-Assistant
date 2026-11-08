@@ -1,7 +1,15 @@
+
 requests
 python-dotenv
 pymupdf
+langchain
 langchain-core
 langchain-text-splitters
+langchain-community
+langgraph
 qdrant-client
 streamlit
+sentence-transformers
+pillow
+pytesseract
+reportlab
