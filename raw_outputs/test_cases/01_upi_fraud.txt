@@ -1,0 +1,10 @@
+TEST 01 — UPI PAYMENT FRAUD
+
+User turn 1:
+Someone pretending to be bank support asked me to approve a UPI collect request to reverse a failed payment. I approved it and ₹18,500 was debited today at 2:30 PM. What should I do immediately?
+
+User turn 2:
+I have the UPI transaction ID and a screenshot. Should I contact my bank first or file a cybercrime complaint first?
+
+User turn 3:
+Prepare a concise incident summary using only the details I have provided. Clearly list the information that is still missing.
