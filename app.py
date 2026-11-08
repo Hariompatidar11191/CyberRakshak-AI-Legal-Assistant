@@ -2,6 +2,8 @@ import streamlit as st
 import time
 import uuid
 import hashlib
+import json
+from datetime import datetime
 
 from agents.legal_agent import chat_with_legal_agent
 from utils.pdf_handler import extract_text_from_pdf
