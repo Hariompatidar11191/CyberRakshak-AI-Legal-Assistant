@@ -1,0 +1,1 @@
+Save the original TXT or JSON chat downloads from your actual CyberRakshak app in this folder. Do not fabricate assistant responses or edit downloaded transcripts.\n
