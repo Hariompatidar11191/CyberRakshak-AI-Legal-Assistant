@@ -1,0 +1,10 @@
+TEST 03 — POSSIBLE BANK ACCOUNT COMPROMISE
+
+User turn 1:
+I received an SMS saying my mobile number was changed for my bank account, but I did not request this. I can no longer log in to mobile banking. I have not shared an OTP. What should I do?
+
+User turn 2:
+I am travelling and cannot visit my home branch today. What can I do remotely, and how do I make sure I am contacting the real bank?
+
+User turn 3:
+Make a checklist of the actions I should take and the evidence I should preserve.
