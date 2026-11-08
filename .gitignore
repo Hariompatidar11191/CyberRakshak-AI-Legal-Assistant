@@ -1,0 +1,26 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environments
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local storage and uploads
+storage/*
+!storage/.gitkeep
+uploads/
+*.pdf
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+data/legal_documents/

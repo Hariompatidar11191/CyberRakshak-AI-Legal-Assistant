@@ -1,0 +1,7 @@
+requests
+python-dotenv
+pymupdf
+langchain-core
+langchain-text-splitters
+qdrant-client
+streamlit
